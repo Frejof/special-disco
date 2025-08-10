@@ -1,0 +1,145 @@
+json
+[
+  {
+    "title": "Butter Chicken",
+    "culture": "Indian",
+    "image": "https://via.placeholder.com/300x200.png?text=Butter+Chicken",
+    "ingredients": ["Chicken", "Tomato puree", "Butter", "Cream", "Garam masala"],
+    "instructions": "Cook marinated chicken in tomato butter sauce with cream and spices."
+  },
+  {
+    "title": "Chole (Chickpea Curry)",
+    "culture": "Indian",
+    "image": "https://via.placeholder.com/300x200.png?text=Chole",
+    "ingredients": ["Chickpeas", "Onion", "Tomato", "Ginger", "Spices"],
+    "instructions": "Simmer chickpeas in a spiced onion-tomato gravy."
+  },
+  {
+    "title": "Palak Paneer",
+    "culture": "Indian",
+    "image": "https://via.placeholder.com/300x200.png?text=Palak+Paneer",
+    "ingredients": ["Spinach", "Paneer", "Garlic", "Cream", "Garam masala"],
+    "instructions": "Blend cooked spinach, then simmer with paneer and spices."
+  },
+  {
+    "title": "Biryani",
+    "culture": "Indian",
+    "image": "https://via.placeholder.com/300x200.png?text=Biryani",
+    "ingredients": ["Basmati rice", "Chicken or mutton", "Yogurt", "Fried onions", "Saffron"],
+    "instructions": "Layer spiced meat and parboiled rice, then steam until fully cooked."
+  },
+  {
+    "title": "Aloo Gobi",
+    "culture": "Indian",
+    "image": "https://via.placeholder.com/300x200.png?text=Aloo+Gobi",
+    "ingredients": ["Potatoes", "Cauliflower", "Tomato", "Turmeric", "Cumin"],
+    "instructions": "Cook potatoes and cauliflower with spices and tomatoes until tender."
+  },
+  {
+    "title": "Tandoori Chicken",
+    "culture": "Indian",
+    "image": "https://via.placeholder.com/300x200.png?text=Tandoori+Chicken",
+    "ingredients": ["Chicken", "Yogurt", "Tandoori masala", "Lemon juice"],
+    "instructions": "Marinate chicken in yogurt-spice mix and roast or grill."
+  },
+  {
+    "title": "Rajma (Kidney Bean Curry)",
+    "culture": "Indian",
+    "image": "https://via.placeholder.com/300x200.png?text=Rajma",
+    "ingredients": ["Kidney beans", "Onions", "Tomatoes", "Ginger-garlic paste", "Spices"],
+    "instructions": "Simmer cooked kidney beans in a rich onion-tomato gravy."
+  },
+  {
+    "title": "Masoor Dal (Red Lentils)",
+    "culture": "Indian",
+    "image": "https://via.placeholder.com/300x200.png?text=Masoor+Dal",
+    "ingredients": ["Red lentils", "Onion", "Tomato", "Mustard seeds", "Cumin"],
+    "instructions": "Boil lentils and temper with mustard seeds, cumin, and onion."
+  },
+  {
+    "title": "Samosa",
+    "culture": "Indian",
+    "image": "https://via.placeholder.com/300x200.png?text=Samosa",
+    "ingredients": ["Potatoes", "Peas", "Flour", "Cumin", "Oil"],
+    "instructions": "Fill pastry with spiced potato filling and deep fry until golden."
+  },
+  {
+    "title": "Dosa with Coconut Chutney",
+    "culture": "Indian",
+    "image": "https://via.placeholder.com/300x200.png?text=Dosa",
+    "ingredients": ["Rice batter", "Urad dal", "Coconut", "Green chilies", "Ginger"],
+    "instructions": "Make crispy crepes and serve with coconut chutney."
+  },
+
+  {
+    "title": "Thieboudienne",
+    "culture": "Senegalese",
+    "image": "https://via.placeholder.com/300x200.png?text=Thieboudienne",
+    "ingredients": ["Fish", "Broken rice", "Tomatoes", "Vegetables", "Spices"],
+    "instructions": "Cook fish and vegetables in tomato broth and serve over rice."
+  },
+  {
+    "title": "Yassa Poulet",
+    "culture": "Senegalese",
+    "image": "https://via.placeholder.com/300x200.png?text=Yassa+Poulet",
+    "ingredients": ["Chicken", "Onions", "Mustard", "Lemon juice", "Garlic"],
+    "instructions": "Marinate and cook chicken in tangy onion-mustard sauce."
+  },
+  {
+    "title": "Mafé (Peanut Stew)",
+    "culture": "Senegalese",
+    "image": "https://via.placeholder.com/300x200.png?text=Mafe",
+    "ingredients": ["Peanut butter", "Beef", "Tomatoes", "Carrots", "Onions"],
+    "instructions": "Simmer meat and vegetables in rich peanut sauce."
+  },
+  {
+    "title": "Domoda",
+    "culture": "Senegalese",
+    "image": "https://via.placeholder.com/300x200.png?text=Domoda",
+    "ingredients": ["Ground peanuts", "Meat", "Tomato paste", "Carrots", "Cabbage"],
+    "instructions": "Prepare a peanut stew with vegetables and meat."
+  },
+  {
+    "title": "Fataya (Stuffed Pastry)",
+    "culture": "Senegalese",
+    "image": "https://via.placeholder.com/300x200.png?text=Fataya",
+    "ingredients": ["Flour", "Minced meat", "Onion", "Garlic", "Spices"],
+    "instructions": "Stuff dough with spiced meat filling, seal, and fry."
+  },
+  {
+    "title": "Couscous Senegalese",
+    "culture": "Senegalese",
+    "image": "https://via.placeholder.com/300x200.png?text=Senegalese+Couscous",
+    "ingredients": ["Millet couscous", "Vegetables", "Lamb or chicken", "Spices"],
+    "instructions": "Steam couscous and serve with savory meat-vegetable stew."
+  },
+  {
+    "title": "Lakh (Millet Porridge)",
+    "culture": "Senegalese",
+    "image": "https://via.placeholder.com/300x200.png?text=Lakh",
+    "ingredients": ["Millet", "Yogurt", "Sugar", "Salt"],
+    "instructions": "Cook millet into porridge and serve with sweetened yogurt."
+  },
+  {
+    "title": "Accra (Black-eyed Pea Fritters)",
+    "culture": "Senegalese",
+    "image": "https://via.placeholder.com/300x200.png?text=Accra",
+    "ingredients": ["Black-eyed peas", "Onions", "Hot pepper", "Salt", "Oil"],
+    "instructions": "Blend peas and fry into small spicy fritters."
+  },
+  {
+    "title": "Bassi Salte",
+    "culture": "Senegalese",
+    "image": "https://via.placeholder.com/300x200.png?text=Bassi+Salte",
+    "ingredients": ["Couscous", "Lamb", "Tomatoes", "Peppers", "Okra"],
+    "instructions": "Cook lamb stew and serve over couscous with okra."
+  },
+  {
+    "title": "Thiakry (Sweet Couscous Pudding)",
+    "culture": "Senegalese",
+    "image": "https://via.placeholder.com/300x200.png?text=Thiakry",
+    "ingredients": ["Couscous", "Yogurt", "Milk", "Nutmeg", "Sugar"],
+    "instructions": "Mix steamed couscous with sweetened yogurt and spices."
+  }
+]
+```
