@@ -1,0 +1,11 @@
+pubsiec yaml
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.13.0
+  firebase_auth: ^4.4.0
+  cloud_firestore: ^4.7.1
+  http: ^0.13.6
+```
+
+Run `flutter pub get`
