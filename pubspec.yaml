@@ -1,4 +1,3 @@
-pubsiec yaml
 dependencies:
   flutter:
     sdk: flutter
@@ -6,6 +5,3 @@ dependencies:
   firebase_auth: ^4.4.0
   cloud_firestore: ^4.7.1
   http: ^0.13.6
-```
-
-Run `flutter pub get`
