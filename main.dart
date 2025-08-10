@@ -8,8 +8,10 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:http/http.dart' as http;
 
 // Replace with your own URL where JSON is hosted publicly
-const String recipesJsonUrl =
-    'https://raw.githubusercontent.com/yourusername/yourrepo/main/recipes.json';
+// const String recipesJsonUrl =
+//    'https://raw.githubusercontent.com/yourusername/yourrepo/main/recipes.json';
+
+const String recipesJsonUrl ='https://github.com/Frejof/special-disco/blob/main/recipes.json';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
